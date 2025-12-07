@@ -6,6 +6,8 @@
 
 A lightweight, local AI application that automatically generates descriptive captions for images. Built using Python, the **Salesforce BLIP** model, and **Gradio** for the user interface.
 
+## App DemoScreenshot
+![App Demo Interface](demo.png)
 ##  Features
 
 *   **Offline Capable:** Runs locally on your machine after the initial model download.
