@@ -1,2 +1,1 @@
-# a-project-repo
-collection of projects
+# a collection of projects
